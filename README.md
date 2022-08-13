@@ -19,7 +19,7 @@ The `cdk.json` file tells the CDK Toolkit how to execute your app.
 
 ## Why would I do this?
 
-It appears we can process images faster than text. 
+It appears we can [process images](https://movableink.com/blog/29-incredible-stats-that-prove-the-power-of-visual-marketing) faster than text. 
 
 So in order to interpret the stages of our Pipeline correctly we can add [Emoji's](https://medium.com/@manuerumx/ci-cd-with-emojis-3be9db23d3df)
 
